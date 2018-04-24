@@ -1,6 +1,6 @@
 {
-  "main.css": "static/css/main.83453101.css",
-  "main.css.map": "static/css/main.83453101.css.map",
+  "main.css": "style.css",
+  "main.css.map": "style.css.map",
   "main.js": "static/js/main.8aa5b855.js",
   "main.js.map": "static/js/main.8aa5b855.js.map",
   "static\\media\\App.scss": "static/media/App.913c2bc9.scss",
