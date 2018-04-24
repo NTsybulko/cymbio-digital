@@ -24,7 +24,7 @@ const App = () => (
         <Switch>
           <Route
             exact
-            path="/cymbio-digita"
+            path="/cymbio-digital/"
             component={HomeContainer}
           />
           <Route
@@ -41,12 +41,12 @@ const App = () => (
             component={SignOutContainer}
           />
           <Route
-            exact path="/cymbio-digita/products"
+            exact path="/cymbio-digital/products"
             component={Products}
           />
           <Route
             exact
-            path="/cymbio-digita/approve-retailer/:id"
+            path="/cymbio-digitals/approve-retailer/:id"
             component={SingleRetailerContainer}
           />
         </Switch>
