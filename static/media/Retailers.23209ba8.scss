@@ -1,0 +1,10 @@
+.ic-sort {
+	display: inline-block;
+	top: 4px;
+	left: 10px;
+	font-size: 21px;
+	position: relative;
+}
+.ic-sort.down {
+	transform: scale(1, -1);
+}
