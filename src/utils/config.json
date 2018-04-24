@@ -1,0 +1,5 @@
+{
+    "base_url": "/v3",
+    "token_url": "/oauth/token",
+    "client_secret": "1234"
+}
